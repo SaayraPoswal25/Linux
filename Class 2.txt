@@ -1,0 +1,12 @@
+All the commands used are in bin.
+
+cd/ - root
+cd[path]
+
+2 types of paths:
+1. Relative path
+2. Absolute path
+
+To chech all variations of a command: --help after it
+
+to clear, use clear command
